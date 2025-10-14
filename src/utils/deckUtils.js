@@ -283,11 +283,30 @@ export function decodeDeckFromParam(deckParam, setDeck, setSideDeck = null) {
 // URL読込------------------------------------------------------------------------
 export const importDeckFromURL = (importURL, setDeck, setSideDeck) => {
   try {
-    const url = new URL(importURL);
-    const params = new URLSearchParams(url.search);
-    const deckParam = params.get('deck');
+    // まずは URL をパース（相対・ハッシュのみでも動くように location.origin を補完）
+    let url;
+    try {
+      url = new URL(importURL, window?.location?.origin || 'https://example.com');
+    } catch {
+      // ここに来ることは稀ですが、万一に備え fallback
+      alert('無効なURLです');
+      return;
+    }
 
-    if (!deckParam) return; // deck指定なしは何もしない
+    // 1) 通常の ? で始まるクエリ
+    // 2) ハッシュ(#/new-deck-view/...) 内の ? 以降にあるクエリ
+    let queryString = url.search; // 例: "?deck=..."
+    if (!queryString && url.hash) {
+      // 例: "#/new-deck-view/?deck=..."
+      const qIndex = url.hash.indexOf('?');
+      if (qIndex !== -1) {
+        queryString = url.hash.slice(qIndex); // 先頭は "?"
+      }
+    }
+
+    const params = new URLSearchParams((queryString || '').replace(/^\?/, ''));
+    const deckParam = params.get('deck');
+    if (!deckParam) return; // deck 指定なしは何もしない
 
     const [mainCode, sideCode] = deckParam.split('_');
 
