@@ -500,21 +500,36 @@ const NewDeckView = () => {
                 <div style={{ margin: '0.3rem 0' }}>
                     <label>登場時効果：</label>
                     <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '0.5rem' }}>
-                        {Object.keys(selectedEffects).map((key) => {
-                        const checked = !!selectedEffects[key];
-                        return (
-                            <label key={key} style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }} className="inline-label">
-                            <input
-                                type="checkbox"
-                                className="inline-checkbox"
-                                checked={checked}
-                                onChange={() => handleSingleSelect(key)}
-                            />
-                            {key}
-                            </label>
-                        );
-                        })}
-                    </div>
+                    {Object.keys(selectedEffects).map((key) => (
+                    <label
+                        key={key}
+                        style={{ display: 'flex', alignItems: 'center', gap: '0.3rem' }}
+                        className="inline-label"
+                    >
+                        <input
+                        type="checkbox"
+                        className="inline-checkbox"
+                        checked={selectedEffects[key]}
+                        onChange={() => {
+                            if (selectedEffects[key]) {
+                                setSelectedEffects(
+                                    Object.fromEntries(
+                                    Object.entries(selectedEffects).map(([k]) => [k, false])
+                                    )
+                                );
+                            } else {
+                                setSelectedEffects(
+                                    Object.fromEntries(
+                                    Object.entries(selectedEffects).map(([k]) => [k, k === key])
+                                    )
+                                );
+                                }
+                            }
+                        }
+                        />
+                        {key}
+                    </label>
+                    ))}                    </div>
                 </div>
 
                 <label>キーワード：</label>
