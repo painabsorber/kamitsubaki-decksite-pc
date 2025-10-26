@@ -6544,7 +6544,7 @@
     "type": "Magic",
     "name": "ダンスデコレーション",
     "color": null,
-    "kind": "即時",
+    "kind": "装備",
     "description": "黄タイプのArtistのみ付けることができる。自分のターンでこのカードが付いているArtistがトラッシュされたなら、魔力αを1個生成する。装備タイプのMagicは、Artist1枚に1枚だけ付けることができる。",
     "linktag": "",
     "collection": "ブースターパックvol.4「魔女の黒鳴」"
