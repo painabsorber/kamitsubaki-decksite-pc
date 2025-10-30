@@ -3130,6 +3130,506 @@
     "collection": "ブースターパックvol.4「魔女の黒鳴」"
   },
   {
+    "id": "LA-1",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-2",
+    "type": "Artist",
+    "name": "【愛しているよ】可不",
+    "color": "赤",
+    "kind": null,
+    "description": "【登場時効果】魔力α+1\n【特殊能力】\n魔力αが3個以上あるなら使用できる。このカードをStandby状態にする。その後、サイコロを振り、偶数ならトラッシュからSongカードを1枚選び、相手に見せて手札に加える。",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-3",
+    "type": "Artist",
+    "name": "【愛しているよ】可不[SR]",
+    "color": "赤",
+    "kind": null,
+    "description": "【登場時効果】魔力α+1\n【特殊能力】\n魔力αが3個以上あるなら使用できる。このカードをStandby状態にする。その後、サイコロを振り、偶数ならトラッシュからSongカードを1枚選び、相手に見せて手札に加える。",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-4",
+    "type": "Artist",
+    "name": "【もう待てない】CIEL",
+    "color": "青",
+    "kind": null,
+    "description": "【登場時効果】魔力Ω+1\n【登場条件】\n手札がこのカードのみならステージに出すことができる。\n【特殊能力】\n魔力Ωが1個以上あるなら使用できる。このカードをStandby状態にする。その後、相手の魔力αを1個消失する。サイコロを振り、4以上なら相手の魔力αをさらに1個消失する。",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-5",
+    "type": "Artist",
+    "name": "【もう待てない】CIEL[SR]",
+    "color": "青",
+    "kind": null,
+    "description": "【登場時効果】魔力Ω+1\n【登場条件】\n手札がこのカードのみならステージに出すことができる。\n【特殊能力】\n魔力Ωが1個以上あるなら使用できる。このカードをStandby状態にする。その後、相手の魔力αを1個消失する。サイコロを振り、4以上なら相手の魔力αをさらに1個消失する。",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-6",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-7",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-8",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-9",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-10",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-11",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-12",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-13",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-14",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-15",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-16",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-17",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-18",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-19",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-20",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-21",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-22",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-23",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-24",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-25",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-26",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-27",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-28",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-29",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-30",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-31",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-32",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-33",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-34",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-35",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-36",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-37",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-38",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-39",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-40",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-41",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-42",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-43",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-44",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-45",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-46",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-47",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-48",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-49",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LA-50",
+    "type": "Artist",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
     "id": "exA-1",
     "type": "Artist",
     "name": "【現象】V.W.P",
@@ -3176,6 +3676,26 @@
     "color": "赤",
     "kind": null,
     "description": "【登場時効果】VOL+1\n【登場条件】\nこのターン、4枚以上のSongカードを使用しているならステージに出すことができる。\n【特殊能力】\n手札からステージに出たときに1回使用できる。トラッシュから赤タイプのSongカードを1枚選び手札に加える。",
+    "linktag": "",
+    "collection": "エクストラ"
+  },
+  {
+    "id": "exA-6",
+    "type": "Artist",
+    "name": "【すべては協奏の果てに】V.I.P",
+    "color": "白",
+    "kind": null,
+    "description": "【登場時効果】VOL+1\n【登場条件】\n自分のステージにArtistが4枚以上出ているなら、ステージに出すことができる。\n【特殊能力】\n手札からステージに出たときに1回使用できる。トラッシュからALLタイプのSongカードを1枚選び手札に加える。",
+    "linktag": "",
+    "collection": "エクストラ"
+  },
+  {
+    "id": "exA-7",
+    "type": "Artist",
+    "name": "【すべては協奏の果てに】V.I.P[SR]",
+    "color": "白",
+    "kind": null,
+    "description": "【登場時効果】VOL+1\n【登場条件】\n自分のステージにArtistが4枚以上出ているなら、ステージに出すことができる。\n【特殊能力】\n手札からステージに出たときに1回使用できる。トラッシュからALLタイプのSongカードを1枚選び手札に加える。",
     "linktag": "",
     "collection": "エクストラ"
   },
@@ -3270,6 +3790,16 @@
     "collection": "エクストラ"
   },
   {
+    "id": "exA-17",
+    "type": "Artist",
+    "name": "【KGC2025】V.W.P",
+    "color": "黒",
+    "kind": null,
+    "description": "【特殊能力】\nこのカードをStandby状態にする。その後、サイコロを振り、1ならお互いにVOLを1点獲得し、2ならお互いに魔力αを1個生成し、3ならお互いに魔力βを1個生成する。",
+    "linktag": "",
+    "collection": "エクストラ"
+  },
+  {
     "id": "prmA-1",
     "type": "Artist",
     "name": "【向き合えたら】可不",
@@ -3288,6 +3818,26 @@
     "description": "【登場時効果】魔力α+1\n【特殊能力】\nこのカードが手札からステージに出た時に使用できる。自分のステージのArtistを好きなように入れ替える。",
     "linktag": "",
     "collection": "プロモパックvol.1"
+  },
+  {
+    "id": "prmA-3",
+    "type": "Artist",
+    "name": "【fever time】氷夏至",
+    "color": "白",
+    "kind": null,
+    "description": "【登場条件】\n魔力αが3個以上あるならステージに出すことができる。\n【特殊能力】\n手札からステージに出たときに使用できる。魔力αを1個消費して、サイコロを振り4以上なら、VOLを1点獲得する。",
+    "linktag": "",
+    "collection": "プロモパックvol.2"
+  },
+  {
+    "id": "prmA-4",
+    "type": "Artist",
+    "name": "【想像を超えていけ】幸祜",
+    "color": "黒",
+    "kind": null,
+    "description": "【登場時効果】魔力α+1\n【特殊能力】\nこのカードをStandby状態にして、魔力Ωを1個消費する。VOLを1点獲得する。",
+    "linktag": "",
+    "collection": "プロモパックvol.2"
   },
   {
     "id": "AS-1",
@@ -5330,6 +5880,416 @@
     "collection": "ブースターパックvol.4「魔女の黒鳴」"
   },
   {
+    "id": "LS-1",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-2",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-3",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-4",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-5",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-6",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-7",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-8",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-9",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-10",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-11",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-12",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-13",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-14",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-15",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-16",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-17",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-18",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-19",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-20",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-21",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-22",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-23",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-24",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-25",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-26",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-27",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-28",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-29",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-30",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-31",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-32",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-33",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-34",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-35",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-36",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-37",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-38",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-39",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-40",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LS-41",
+    "type": "Song",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
     "id": "prmS-1",
     "type": "Song",
     "name": "【大丈夫】台風の子",
@@ -5348,6 +6308,26 @@
     "description": "サイコロを振り、2以下なら山札を1枚引き、3以上なら出た目の数だけ山札の上から見て、2枚まで選び、手札に加える。その後、残りのカードを好きな順番に入れ替えて山札の一番上に戻す。\n【センター効果】\nセンターのArtistでこのカードを使用した場合に追加で発生する。魔力αを1個生成する。",
     "linktag": "",
     "collection": "プロモパックvol.1"
+  },
+  {
+    "id": "prmS-3",
+    "type": "Song",
+    "name": "【君のいない夏へ】雛鳥",
+    "color": "赤",
+    "kind": null,
+    "description": "魔力αか魔力βを1個生成する。その後、サイコロを振り、3以上なら相手の装備タイプのMagicカードを1枚選び、トラッシュする。\n【センター効果】\nセンターのArtistでこのカードを使用した場合に追加で発生する。サイコロを振り、奇数ならVOLを1点獲得する。",
+    "linktag": "",
+    "collection": "プロモパックvol.2"
+  },
+  {
+    "id": "prmS-4",
+    "type": "Song",
+    "name": "【さあ待ってるね】新世界ピグマリオン",
+    "color": "黄",
+    "kind": null,
+    "description": "山札の上から2枚引く。\n【センター効果】\nセンターのArtistでこのカードを使用した場合に追加で発生する。サイコロを振り、5以上なら正面のArtistカードを相手の山札に戻してよくきる。Artistについているカードはトラッシュする。",
+    "linktag": "",
+    "collection": "プロモパックvol.2"
   },
   {
     "id": "AM-1",
@@ -6610,6 +7590,246 @@
     "collection": "ブースターパックvol.4「魔女の黒鳴」"
   },
   {
+    "id": "LM-1",
+    "type": "Magic",
+    "name": "ドントリーブミー",
+    "color": null,
+    "kind": "即時",
+    "description": "魔力βが1個以上あるなら後攻1ターン目のみ使用できる。自分のステージのArtistを1枚選び、Active状態にする。",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-2",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-3",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-4",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-5",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-6",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-7",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-8",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-9",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-10",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-11",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-12",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-13",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-14",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-15",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-16",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-17",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-18",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-19",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-20",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-21",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-22",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-23",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LM-24",
+    "type": "Magic",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
     "id": "exM-1",
     "type": "Magic",
     "name": "KAMITSUBAKI FES'24 type-R",
@@ -6668,6 +7888,16 @@
     "description": "このカードをつけているArtistでSongカードを使用する際、続けてもう1枚Songカードを使用することができる。\n装備タイプのMagicは、Artist1枚に1枚だけ付けることができる。",
     "linktag": "",
     "collection": "プロモパックvol.1"
+  },
+  {
+    "id": "prmM-2",
+    "type": "Magic",
+    "name": "キャンディテイスティング",
+    "color": null,
+    "kind": "即時",
+    "description": "魔力αを3個まで消費し、消費した個数分サイコロを振る。偶数が出た数だけVOLを獲得する。",
+    "linktag": "",
+    "collection": "プロモパックvol.2"
   },
   {
     "id": "AD-1",
@@ -7398,6 +8628,156 @@
     "description": "魔力βが3個以上あり、トラッシュに「神椿市」のカードが7枚以上あるなら相手は任意のカードの効果により手札が7枚以上になるたび、手札が6枚になるまで手札をトラッシュする。",
     "linktag": "",
     "collection": "ブースターパックvol.4「魔女の黒鳴」"
+  },
+  {
+    "id": "LD-1",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-2",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-3",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-4",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-5",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-6",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-7",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-8",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-9",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-10",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-11",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-12",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-13",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-14",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
+  },
+  {
+    "id": "LD-15",
+    "type": "Direction",
+    "name": "NaN",
+    "color": null,
+    "kind": null,
+    "description": "",
+    "linktag": "",
+    "collection": "MEMORIES PACK「追奏」"
   },
   {
     "id": "exD-1",

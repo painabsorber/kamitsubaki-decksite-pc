@@ -17,7 +17,9 @@ export const collectionList = [
     "IBA EXTRA PACK",
     "KAMITSUBAKI ARTWORK EXTRA PACK",
     "ブースターパックvol.4「魔女の黒鳴」",
+    "MEMORIES PACK「追奏」",
     "プロモパックvol.1",
+    "プロモパックvol.2",
     "エクストラ"
 ];
 
